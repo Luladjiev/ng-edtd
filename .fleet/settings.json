@@ -1,5 +1,7 @@
 {
-    "excluded": [
-      "node_modules"
-    ]
+  "excluded": [
+    "node_modules",
+    ".angular",
+    "dist"
+  ]
 }
